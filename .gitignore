@@ -1,4 +1,4 @@
 .env
-/Artifacts
+# /Artifacts
 /Network_Data
 /logs
